@@ -1,0 +1,2 @@
+charuco-test-fixture-lowres filter=lfs diff=lfs merge=lfs -text
+charuco-test-fixture-highres filter=lfs diff=lfs merge=lfs -text
